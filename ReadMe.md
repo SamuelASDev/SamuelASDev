@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre min:
 Eu sou estudante de quarto semestre de analise e desenvolvimento de sistemas.<br>Estou a procura de estagio.<br>Tenho experiencia em java, c, php, HTML e css. sempre disposto a aprender.
 
 
