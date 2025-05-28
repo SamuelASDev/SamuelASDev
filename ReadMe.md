@@ -1,5 +1,5 @@
 # 💫 Sobre min:
-Eu sou estudante de quarto semestre de analise e desenvolvimento de sistemas.<br>Estou a procura de estagio.<br>Tenho experiencia em java, c, php, HTML e css. sempre disposto a aprender.
+Eu sou estudante de sexto semestre de analise e desenvolvimento de sistemas(ultimo).<br>Estou a procura de estagio ou uma oportunidade como junior.<br>Tenho experiencia em java, c, php, javascript, node, HTML css, c# e muitos outros. sempre disposto a aprender.
 
 
 ## 🌐 Socials:
