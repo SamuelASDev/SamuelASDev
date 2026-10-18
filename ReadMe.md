@@ -10,7 +10,7 @@
 
 📚 Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em aplicações funcionais.
 
-🌐 **Conheça meus projetos:** [Meu Portfólio](https://portifolio.froglabs.site)
+🌐 **Conheça meus projetos:** [Meu Portfólio]([https://portifolio.froglabs.site](https://portifolio.froglabs.site/samuel-abreu-sales-eb72dded-0fee-446e-8b31-a46abf37dc2f))
 
 ---
 
@@ -95,7 +95,7 @@ Aplicação desktop para Elden Ring que utiliza visão computacional para detect
 
 🔗 [Repositório](https://github.com/SamuelASDev/pythonleitorEldenRing)
 
-📂 **Veja mais projetos, imagens e descrições detalhadas no meu [portfólio](https://portifolio.froglabs.site).**
+📂 **Veja mais projetos, imagens e descrições detalhadas no meu [portfólio]([https://portifolio.froglabs.site](https://portifolio.froglabs.site/samuel-abreu-sales-eb72dded-0fee-446e-8b31-a46abf37dc2f)).**
 
 ---
 
@@ -117,7 +117,7 @@ Tenho interesse em trabalhar com desenvolvimento de sistemas, APIs, bancos de da
 
 📌 **Disponível para oportunidades remotas e presenciais.**
 
-🌐 [Acesse meu portfólio completo](https://portifolio.froglabs.site)
+🌐 [Acesse meu portfólio completo]([https://portifolio.froglabs.site](https://portifolio.froglabs.site/samuel-abreu-sales-eb72dded-0fee-446e-8b31-a46abf37dc2f))
 
 ---
 
