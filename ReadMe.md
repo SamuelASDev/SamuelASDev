@@ -10,14 +10,14 @@
 
 📚 Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em aplicações funcionais.
 
-🌐 **Conheça meus projetos:** [Meu Portfólio](https://portifolio.froglabs.site/samuel-abreu-sales-eb72dded-0fee-446e-8b31-a46abf37dc2f)
+🌐 **Conheça meus projetos:** [Meu Portfólio](https://portifolio.froglabs.site/samuel-abreu-sales/)
 
 ---
 
 ## 🌐 Links e redes sociais
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portifolio.froglabs.site/samuel-abreu-sales-eb72dded-0fee-446e-8b31-a46abf37dc2f)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-abreu-sales-3569592b5/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portifolio.froglabs.site/samuel-abreu-sales/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-abreu-sales/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChxoriP_eK-knNY9z3qNS-g)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ySYShkcs57)
 
@@ -32,9 +32,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
@@ -73,7 +73,7 @@ Desenvolvi o **Vértice** para criar, personalizar e publicar portfólios profis
 
 **Destaques técnicos:** autorização com Policies, sanitização de conteúdo, gerenciamento de uploads e testes automatizados em PHP e JavaScript.
 
-🔗 [Acessar plataforma](https://portifolio.froglabs.site) · [Repositório](https://github.com/SamuelASDev/PortifolioSas) · [Conhecer o projeto](https://portifolio.froglabs.site/samuel-abreu-sales-eb72dded-0fee-446e-8b31-a46abf37dc2f/projects/1)
+🔗 [Acessar plataforma](https://portifolio.froglabs.site) · [Repositório](https://github.com/SamuelASDev/PortifolioSas) · [Conhecer o projeto](https://portifolio.froglabs.site/samuel-abreu-sales/projects/1)
 
 ### 📺 Anime Tracker
 
@@ -107,17 +107,20 @@ Aplicação desktop para Elden Ring que utiliza visão computacional para detect
 
 🔗 [Repositório](https://github.com/SamuelASDev/pythonleitorEldenRing)
 
-📂 **Veja mais projetos, imagens e descrições detalhadas no meu [portfólio](https://portifolio.froglabs.site/samuel-abreu-sales-eb72dded-0fee-446e-8b31-a46abf37dc2f).**
+📂 **Veja mais projetos, imagens e descrições detalhadas no meu [portfólio](https://portifolio.froglabs.site/samuel-abreu-sales/).**
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelASDev&theme=dark&show_icons=true&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelASDev&theme=dark&show_icons=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelASDev&theme=dark&hide_border=true&layout=compact&cache_seconds=86400" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamuelASDev&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelASDev&theme=dark&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SamuelASDev&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -129,8 +132,10 @@ Tenho interesse em trabalhar com desenvolvimento de sistemas, APIs, bancos de da
 
 📌 **Disponível para oportunidades remotas e presenciais.**
 
-🌐 [Acesse meu portfólio completo](https://portifolio.froglabs.site/samuel-abreu-sales-eb72dded-0fee-446e-8b31-a46abf37dc2f)
+🌐 [Acesse meu portfólio completo](https://portifolio.froglabs.site/samuel-abreu-sales/)
 
 ---
 
-![Visitas ao perfil](https://visitcount.itsvg.in/api?id=SamuelASDev&icon=0&color=1)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SamuelASDev&icon=0&color=1" alt="Visitas ao perfil" />
+</p>
