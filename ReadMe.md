@@ -114,8 +114,8 @@ Aplicação desktop para Elden Ring que utiliza visão computacional para detect
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelASDev&theme=dark&show_icons=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelASDev&theme=dark&hide_border=true&layout=compact&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelASDev&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelASDev&theme=github_dark" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
@@ -137,5 +137,5 @@ Tenho interesse em trabalhar com desenvolvimento de sistemas, APIs, bancos de da
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SamuelASDev&icon=0&color=1" alt="Visitas ao perfil" />
+  <img src="https://komarev.com/ghpvc/?username=SamuelASDev&label=Visitas%20ao%20perfil&color=8B5CF6&style=for-the-badge" alt="Visitas ao perfil" />
 </p>
